@@ -1,0 +1,8 @@
+flask
+pymongo
+numpy
+pandas
+scipy
+scikit-learn
+tensorflow
+matplotlib
